@@ -1,0 +1,29 @@
+
+
+.bobi {
+    font-family: 'Google Sans', sans-serif;
+    text-align: center;
+}
+
+.yaitsa {
+    color: gray;
+}
+
+.shapka {
+    text-align: center;
+    font-family: 'Google Sans', sans-serif;
+}
+
+nav a {
+    color: black;
+    margin-right: 25px;
+}
+
+.photo1 {
+    border-radius: 20px;
+     display: block;
+     margin: 0 auto;
+     max-width: 100%;
+     height: auto;
+     margin-bottom: 15px;
+}

@@ -1,0 +1,43 @@
+#главстраница
+body {
+    background-color: snow;
+}
+
+
+
+.privetstvie {
+    text-align: center;
+    font-family: 'Google Sans', sans-serif;
+}
+
+.opisanie {
+    font-family: 'Google Sans', sans-serif;
+    text-align: center;
+}
+
+.razd1 {
+    color: gray;
+}
+
+
+.shapka {
+    text-align: center;
+    font-family: 'Google Sans', sans-serif;
+}
+
+nav a {
+    color: black;
+    margin-right: 25px;
+}
+
+.text {
+    font-family: 'Google Sans', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.text2 {
+    font-family: 'Google Sans', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
